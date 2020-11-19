@@ -118,4 +118,8 @@ class Notepad:
     
     
 notepad = Notepad()
+<<<<<<< HEAD
 notepad.run()
+=======
+notepad.run()
+>>>>>>> c1c1b2f6c97aaf6f571ba4160ac9f8d9026e32df
