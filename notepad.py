@@ -114,12 +114,3 @@ class Notepad:
     
     def showAbout(self):
         showinfo("Notepad","This is a notepad it can paste when we press ctrl+v,it can copy when we press ctrl+c and when we press ctrl+x it will cut and when we press ctrl+shift+a it will select all. and when you press file it will show four words if you press open it will open files select the which you and press ok and when press exit the notepad will exit and when we press Save it will open files agian and name file name and press ok when we press new it clear screen and when we press when we press Help then you will see about notepad and press it.it will show about notepad thats it.")
-
-    
-    
-notepad = Notepad()
-<<<<<<< HEAD
-notepad.run()
-=======
-notepad.run()
->>>>>>> c1c1b2f6c97aaf6f571ba4160ac9f8d9026e32df
